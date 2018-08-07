@@ -1,15 +1,10 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
+# Project Setup
+This assignment will get you set up and rolling with a basic project. By the end, you will have a GitHub repo that contains a working application.
 
 ## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
+[Project Setup Assignment](https://education.launchcode.org/liftoff/assignments/project-setup/)
 
 ## Submission Instructions
 
-### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
-### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+### Project Repository
+https://github.com/Jmcfadden1528/updated-capstone.git
